@@ -1,17 +1,21 @@
 # Hello World
 
-This is my home page! My name is Your Name and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is your_major.
+This is my home page! My name is Kaylan Fan and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is business information systems.
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/your_username.
+My GitHub page is http://github.com/kaylankayy.
 
 ### CPSC 120
 
-* Lab 7
+* Lab 1
 
-    Lab 7, part 2 was a favorite because I was always curious about how the
-    game Blackjack works. I was able to write functions for the first time
-    that calculate the correct value of a Blackjack hand no matter how many
-    Aces were dealt.
-    
+    Personally, I believe lab 1 is most important because it let down a foundation to how the class is going to work. Before deeply comprehending and completely understanding how a specific language works, printing hello world is a mandatory, iconic introduction. Additionally, this is how the class was introduced to cloning, adding, commiting, and pushing. 
+
+* Lab 8
+
+    Although it was not the first time we were able to set boundaries with user-input, lab 8, part 1 enabled students to lead the user to produce a proper answer that is valid. Not only that, it was also interesting to learn how to assign different variables to different arguments. 
+
+* Lab 10
+
+    A crucial component to coding is being able to access and use tables just like we did in lab 10. This specific lab also set a boundary for users to supply the program with a valid answer that aligns with what is in the table. 
